@@ -1,4 +1,4 @@
 # testrepo
 
 looooooooooooooooooooool
-shut UP!
+'SHUT UP!'
